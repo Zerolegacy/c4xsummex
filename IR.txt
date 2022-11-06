@@ -1,0 +1,23 @@
+mem for
+https://docs.google.com/presentation/d/1AGymJo2S4iZo0E9DpSX97s1K_Z-1iAljtlh_7_NGGmQ/edit?usp=sharing
+
+Ir story
+https://docs.google.com/presentation/d/1pt7PqNHzMH_EHkQh57qc_cUt7sCxEcSIS7CHuuWSgQY/edit?usp=sharing
+
+splunk for ir
+https://docs.google.com/presentation/d/1Q07BxRIOn3P6kQnyO5o8P442NTy7twdB9it5JiqLL0w/edit?usp=sharing
+
+windows eventlog analysis
+https://docs.google.com/presentation/d/1UhVNmMt2Hx4k5x3dxaR5VMtX5yz-hBI1eBgcNrViB-Y/edit?usp=sharing
+
+IR  intro
+https://docs.google.com/presentation/d/1f-x68zS7kBYPMSs3GIrvjORjpz1TSp2Huq3kXq9tB5o/edit?usp=sharing
+
+powershell ir
+https://docs.google.com/presentation/d/16H64-VU6p5Jd2ijdwAdWubGUjaMDfkNOmR4FytsNHyU/edit?usp=sharing
+
+powershell fund
+https://docs.google.com/presentation/d/1yuNZwyG7xWlze_8OGlsAid2e5zJ6w_e0Q-fop8XdDys/edit?usp=sharing
+
+hello splunk
+https://docs.google.com/presentation/d/1R7Xwx35b9TyZSp61GkMTnhPZj7BD-UCyUGaOUiV-fBo/edit?usp=sharing
