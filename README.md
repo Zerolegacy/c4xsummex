@@ -1,4 +1,10 @@
 # c4xsummex
+
+google acc
+fksummex@gmail.com
+iwantT0kms
+
+
 breifing 
 SUMMEX DEETS
 Gonna function like a soc/cert team.
